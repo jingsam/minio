@@ -16,7 +16,7 @@ docker run -p 9000:9000 minio/minio server /data
 docker pull minio/minio:edge
 docker run -p 9000:9000 minio/minio:edge server /data
 ```
-更多Docker部署信息请访问 [这里](https://docs.minio.io/docs/minio-docker-quickstart-guide)
+更多Docker部署信息请访问 [这里](https://docs.minio.io/cn/minio-docker-quickstart-guide)
 
 ## macOS
 ### Homebrew
